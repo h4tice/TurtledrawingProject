@@ -23,9 +23,13 @@ while(i<5):
 """
 
 #star
+"""
 turtle_instance=turtle.Turtle()
 turtle_instance.color("red")
 for i in range(5):
     turtle_instance.right(144)
     turtle_instance.forward(300)
+"""
+
+
 turtle.done()  # Keep the turtle window open until it is manually closed
